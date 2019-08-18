@@ -11,15 +11,11 @@
 <br>
 <br>
 
-<div>
-<img src='./Images/0.png' width="20%" style="vertical-align:top">
-<img src='./Images/1.png' width="20%" style="vertical-align:top">
-<img src='./Images/2.png' width="20%" style="vertical-align:top">
-<img src='./Images/3.png' width="20%" style="vertical-align:top">
-<img src='./Images/4.png' width="20%" style="vertical-align:top">
-<img src='./Images/5.png' width="20%" style="vertical-align:top">
-<img src='./Images/6.png' width="20%" style="vertical-align:top">
-</div>
+
+
+
+|<img src='./Images/0.PNG'>  | <img src='./Images/1.png'>  | <img src='./Images/2.png'>  | <img src='./Images/3.png'>  | <img src='./Images/4.png'>  | <img src='./Images/5.png'>  |<img src='./Images/6.png'>  |
+|---|---|---|---|---|---|---|
 
 ---
 
