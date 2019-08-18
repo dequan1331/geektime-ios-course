@@ -12,7 +12,7 @@
 <br>
 
 <div>
-<img src='./Images/0.jpeg' width="20%" style="vertical-align:top">
+<img src='./Images/0.png' width="20%" style="vertical-align:top">
 <img src='./Images/1.png' width="20%" style="vertical-align:top">
 <img src='./Images/2.png' width="20%" style="vertical-align:top">
 <img src='./Images/3.png' width="20%" style="vertical-align:top">
